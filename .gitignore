@@ -1,0 +1,5 @@
+env
+**/.DS_Store
+*.pyc
+src/data
+src/models

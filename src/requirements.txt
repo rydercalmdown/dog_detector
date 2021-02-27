@@ -1,0 +1,4 @@
+opencv-contrib-python
+imutils
+progress==1.5
+pyttsx3==2.90
